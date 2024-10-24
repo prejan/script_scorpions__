@@ -1,0 +1,574 @@
+2024-10-23 23:13:43,739 - INFO - Using device: mps
+2024-10-23 23:13:43,743 - INFO - Loaded dataset from /Users/admin63/Downloads/hls_burn_scars/training with 539 samples
+2024-10-23 23:13:43,744 - INFO - Loaded dataset from /Users/admin63/Downloads/hls_burn_scars/validation with 263 samples
+2024-10-23 23:13:44,650 - ERROR - Error loading sample 370: 'merged_filename'
+2024-10-23 23:13:44,650 - ERROR - Training failed: 'merged_filename'
+2024-10-23 23:26:04,124 - INFO - Using device: mps
+2024-10-23 23:31:15,579 - INFO - Using device: mps
+2024-10-23 23:36:13,814 - INFO - Using device: mps
+2024-10-23 23:36:13,845 - INFO - Found 0 merged/mask pairs
+2024-10-23 23:36:13,846 - INFO - Loaded dataset from /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training with 0 valid samples out of 0 total pairs
+2024-10-23 23:36:13,852 - INFO - Found 0 merged/mask pairs
+2024-10-23 23:36:13,852 - INFO - Loaded dataset from /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation with 0 valid samples out of 0 total pairs
+2024-10-23 23:39:21,942 - INFO - Using device: mps
+2024-10-23 23:39:21,946 - INFO - Found 540 merged/mask pairs
+2024-10-23 23:39:26,672 - INFO - Loaded dataset from /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training with 540 valid samples out of 540 total pairs
+2024-10-23 23:39:26,677 - INFO - Found 264 merged/mask pairs
+2024-10-23 23:39:28,619 - INFO - Loaded dataset from /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation with 264 valid samples out of 264 total pairs
+2024-10-23 23:39:29,664 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:29,791 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:29,897 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:30,002 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:30,098 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:30,197 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:30,293 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:30,393 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:30,511 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:30,610 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:30,707 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:30,810 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:30,913 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:31,011 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:31,111 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:31,212 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:31,313 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:31,412 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:31,511 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:31,612 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:31,714 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:31,827 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:31,934 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:32,033 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:32,133 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:32,233 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:32,356 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:32,455 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:32,576 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:32,704 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:32,822 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:32,930 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:33,036 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:33,148 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:33,247 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:33,352 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:33,451 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:33,556 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:33,660 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:33,758 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:33,859 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:33,955 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:34,051 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:34,148 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:34,245 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:34,342 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:34,452 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:34,557 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:34,656 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:34,754 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:34,856 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:34,954 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:35,054 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:35,153 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:35,251 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:35,351 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:35,451 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:35,549 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:35,646 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:35,745 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:35,846 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:35,942 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:36,041 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:36,143 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:36,243 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:36,339 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:36,437 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:36,488 - ERROR - Error in training batch: Given groups=1, weight of size [768, 3, 16, 16], expected input[4, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:39:36,489 - ERROR - Training failed: division by zero
+2024-10-23 23:43:31,357 - INFO - Starting training with config: {'batch_size': 8, 'num_epochs': 100, 'learning_rate': 0.0001, 'weight_decay': 0.01, 'patch_size': 16, 'embed_dim': 768, 'num_heads': 12, 'depth': 12}
+2024-10-23 23:43:31,403 - INFO - Using device: mps
+2024-10-23 23:43:31,404 - INFO - Found 540 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training
+2024-10-23 23:43:32,953 - INFO - Successfully loaded 540 valid image pairs
+2024-10-23 23:43:32,953 - INFO - Found 264 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation
+2024-10-23 23:43:33,571 - INFO - Successfully loaded 264 valid image pairs
+2024-10-23 23:43:33,571 - ERROR - Training failed: name 'TransformerSegmentation' is not defined
+2024-10-23 23:48:43,520 - INFO - Starting training with config: {'batch_size': 8, 'num_epochs': 100, 'learning_rate': 0.0001, 'weight_decay': 0.01, 'patch_size': 16, 'embed_dim': 768, 'num_heads': 12, 'depth': 12}
+2024-10-23 23:48:43,542 - INFO - Using device: mps
+2024-10-23 23:48:43,544 - INFO - Found 540 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training
+2024-10-23 23:48:45,124 - INFO - Successfully loaded 540 valid image pairs
+2024-10-23 23:48:45,124 - INFO - Found 264 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation
+2024-10-23 23:48:45,756 - INFO - Successfully loaded 264 valid image pairs
+2024-10-23 23:48:46,659 - INFO - Training with 68 training batches and 33 validation batches
+2024-10-23 23:48:47,007 - ERROR - Error in training batch 0: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:47,135 - ERROR - Error in training batch 1: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:47,251 - ERROR - Error in training batch 2: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:47,380 - ERROR - Error in training batch 3: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:47,531 - ERROR - Error in training batch 4: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:47,648 - ERROR - Error in training batch 5: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:47,795 - ERROR - Error in training batch 6: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:47,934 - ERROR - Error in training batch 7: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:48,070 - ERROR - Error in training batch 8: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:48,268 - ERROR - Error in training batch 9: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:48,483 - ERROR - Error in training batch 10: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:48,672 - ERROR - Error in training batch 11: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:48,779 - ERROR - Error in training batch 12: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:48,880 - ERROR - Error in training batch 13: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:48,983 - ERROR - Error in training batch 14: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:49,090 - ERROR - Error in training batch 15: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:49,198 - ERROR - Error in training batch 16: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:49,300 - ERROR - Error in training batch 17: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:49,399 - ERROR - Error in training batch 18: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:49,505 - ERROR - Error in training batch 19: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:49,607 - ERROR - Error in training batch 20: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:49,710 - ERROR - Error in training batch 21: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:49,817 - ERROR - Error in training batch 22: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:49,930 - ERROR - Error in training batch 23: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:50,048 - ERROR - Error in training batch 24: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:50,170 - ERROR - Error in training batch 25: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:50,303 - ERROR - Error in training batch 26: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:50,414 - ERROR - Error in training batch 27: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:50,545 - ERROR - Error in training batch 28: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:50,678 - ERROR - Error in training batch 29: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:50,816 - ERROR - Error in training batch 30: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:50,930 - ERROR - Error in training batch 31: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:51,070 - ERROR - Error in training batch 32: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:51,175 - ERROR - Error in training batch 33: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:51,277 - ERROR - Error in training batch 34: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:51,373 - ERROR - Error in training batch 35: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:51,476 - ERROR - Error in training batch 36: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:51,590 - ERROR - Error in training batch 37: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:51,713 - ERROR - Error in training batch 38: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:51,827 - ERROR - Error in training batch 39: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:51,935 - ERROR - Error in training batch 40: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:52,049 - ERROR - Error in training batch 41: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:52,209 - ERROR - Error in training batch 42: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:52,337 - ERROR - Error in training batch 43: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:52,448 - ERROR - Error in training batch 44: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:52,549 - ERROR - Error in training batch 45: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:52,645 - ERROR - Error in training batch 46: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:52,751 - ERROR - Error in training batch 47: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:52,856 - ERROR - Error in training batch 48: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:52,959 - ERROR - Error in training batch 49: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:53,084 - ERROR - Error in training batch 50: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:53,187 - ERROR - Error in training batch 51: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:53,311 - ERROR - Error in training batch 52: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:53,419 - ERROR - Error in training batch 53: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:53,520 - ERROR - Error in training batch 54: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:53,619 - ERROR - Error in training batch 55: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:53,753 - ERROR - Error in training batch 56: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:53,855 - ERROR - Error in training batch 57: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:53,953 - ERROR - Error in training batch 58: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:54,057 - ERROR - Error in training batch 59: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:54,165 - ERROR - Error in training batch 60: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:54,277 - ERROR - Error in training batch 61: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:54,388 - ERROR - Error in training batch 62: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:54,499 - ERROR - Error in training batch 63: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:54,614 - ERROR - Error in training batch 64: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:54,718 - ERROR - Error in training batch 65: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:54,828 - ERROR - Error in training batch 66: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:54,881 - ERROR - Error in training batch 67: Given groups=1, weight of size [768, 3, 16, 16], expected input[4, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:48:54,882 - ERROR - Training failed: No training batches were processed successfully
+2024-10-23 23:57:59,009 - INFO - Starting training with config: {'batch_size': 8, 'num_epochs': 100, 'learning_rate': 0.0001, 'weight_decay': 0.01, 'patch_size': 16, 'embed_dim': 768, 'num_heads': 12, 'depth': 12}
+2024-10-23 23:57:59,031 - INFO - Using device: mps
+2024-10-23 23:57:59,032 - INFO - Found 540 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training
+2024-10-23 23:58:00,440 - INFO - Successfully loaded 540 valid image pairs
+2024-10-23 23:58:00,440 - INFO - Found 264 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation
+2024-10-23 23:58:01,025 - INFO - Successfully loaded 264 valid image pairs
+2024-10-23 23:58:01,736 - INFO - Training with 68 training batches and 33 validation batches
+2024-10-23 23:58:02,004 - ERROR - Error in training batch 0: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:02,119 - ERROR - Error in training batch 1: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:02,225 - ERROR - Error in training batch 2: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:02,320 - ERROR - Error in training batch 3: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:02,412 - ERROR - Error in training batch 4: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:02,508 - ERROR - Error in training batch 5: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:02,674 - ERROR - Error in training batch 6: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:02,773 - ERROR - Error in training batch 7: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:02,868 - ERROR - Error in training batch 8: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:02,963 - ERROR - Error in training batch 9: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:03,062 - ERROR - Error in training batch 10: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:03,162 - ERROR - Error in training batch 11: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:03,259 - ERROR - Error in training batch 12: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:03,351 - ERROR - Error in training batch 13: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:03,447 - ERROR - Error in training batch 14: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:03,547 - ERROR - Error in training batch 15: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:03,642 - ERROR - Error in training batch 16: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:03,739 - ERROR - Error in training batch 17: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:03,837 - ERROR - Error in training batch 18: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:03,936 - ERROR - Error in training batch 19: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:04,033 - ERROR - Error in training batch 20: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:04,130 - ERROR - Error in training batch 21: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:04,225 - ERROR - Error in training batch 22: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:04,321 - ERROR - Error in training batch 23: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:04,414 - ERROR - Error in training batch 24: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:04,510 - ERROR - Error in training batch 25: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:04,613 - ERROR - Error in training batch 26: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:04,709 - ERROR - Error in training batch 27: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:04,802 - ERROR - Error in training batch 28: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:04,896 - ERROR - Error in training batch 29: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:04,994 - ERROR - Error in training batch 30: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:05,090 - ERROR - Error in training batch 31: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:05,189 - ERROR - Error in training batch 32: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:05,297 - ERROR - Error in training batch 33: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:05,394 - ERROR - Error in training batch 34: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:05,491 - ERROR - Error in training batch 35: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:05,588 - ERROR - Error in training batch 36: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:05,683 - ERROR - Error in training batch 37: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:05,779 - ERROR - Error in training batch 38: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:05,875 - ERROR - Error in training batch 39: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:05,969 - ERROR - Error in training batch 40: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:06,067 - ERROR - Error in training batch 41: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:06,163 - ERROR - Error in training batch 42: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:06,286 - ERROR - Error in training batch 43: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:06,377 - ERROR - Error in training batch 44: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:06,474 - ERROR - Error in training batch 45: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:06,573 - ERROR - Error in training batch 46: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:06,668 - ERROR - Error in training batch 47: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:06,764 - ERROR - Error in training batch 48: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:06,868 - ERROR - Error in training batch 49: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:06,962 - ERROR - Error in training batch 50: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:07,060 - ERROR - Error in training batch 51: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:07,165 - ERROR - Error in training batch 52: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:07,264 - ERROR - Error in training batch 53: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:07,362 - ERROR - Error in training batch 54: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:07,457 - ERROR - Error in training batch 55: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:07,555 - ERROR - Error in training batch 56: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:07,650 - ERROR - Error in training batch 57: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:07,749 - ERROR - Error in training batch 58: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:07,845 - ERROR - Error in training batch 59: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:07,943 - ERROR - Error in training batch 60: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:08,039 - ERROR - Error in training batch 61: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:08,137 - ERROR - Error in training batch 62: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:08,234 - ERROR - Error in training batch 63: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:08,333 - ERROR - Error in training batch 64: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:08,432 - ERROR - Error in training batch 65: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:08,529 - ERROR - Error in training batch 66: Given groups=1, weight of size [768, 3, 16, 16], expected input[8, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:08,581 - ERROR - Error in training batch 67: Given groups=1, weight of size [768, 3, 16, 16], expected input[4, 6, 512, 512] to have 3 channels, but got 6 channels instead
+2024-10-23 23:58:08,582 - ERROR - Training failed: No training batches were processed successfully
+2024-10-23 23:58:32,305 - INFO - Starting training with config: {'batch_size': 8, 'num_epochs': 100, 'learning_rate': 0.0001, 'weight_decay': 0.01, 'patch_size': 16, 'embed_dim': 768, 'num_heads': 12, 'depth': 12}
+2024-10-23 23:58:32,319 - INFO - Using device: mps
+2024-10-23 23:58:32,324 - INFO - Found 540 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training
+2024-10-23 23:58:33,784 - INFO - Successfully loaded 540 valid image pairs
+2024-10-23 23:58:33,787 - INFO - Found 264 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation
+2024-10-23 23:58:34,381 - INFO - Successfully loaded 264 valid image pairs
+2024-10-24 00:09:25,675 - INFO - Starting training with config: {'batch_size': 8, 'num_epochs': 100, 'learning_rate': 0.0001, 'weight_decay': 0.01, 'patch_size': 16, 'embed_dim': 768, 'num_heads': 12, 'depth': 12}
+2024-10-24 00:09:25,687 - INFO - Using device: mps
+2024-10-24 00:09:25,689 - INFO - Found 540 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training
+2024-10-24 00:09:27,145 - INFO - Successfully loaded 540 valid image pairs
+2024-10-24 00:09:27,145 - INFO - Found 264 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation
+2024-10-24 00:09:27,736 - INFO - Successfully loaded 264 valid image pairs
+2024-10-24 00:09:28,410 - INFO - Training with 68 training batches and 33 validation batches
+2024-10-24 00:12:36,592 - INFO - Starting training with config: {'batch_size': 8, 'num_epochs': 5, 'learning_rate': 0.0001, 'weight_decay': 0.01, 'patch_size': 16, 'embed_dim': 768, 'num_heads': 12, 'depth': 12}
+2024-10-24 00:12:36,623 - INFO - Using device: mps
+2024-10-24 00:12:36,624 - INFO - Found 540 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training
+2024-10-24 00:12:38,021 - INFO - Successfully loaded 540 valid image pairs
+2024-10-24 00:12:38,022 - INFO - Found 264 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation
+2024-10-24 00:12:38,618 - INFO - Successfully loaded 264 valid image pairs
+2024-10-24 00:12:39,284 - INFO - Training with 68 training batches and 33 validation batches
+2024-10-24 00:25:45,690 - INFO - Epoch 1 - Train Loss: nan (540 samples), Train IoU: 0.0010, Val Loss: nan (264 samples), Val IoU: 0.0000
+2024-10-24 00:39:37,614 - INFO - Epoch 2 - Train Loss: nan (540 samples), Train IoU: 0.0000, Val Loss: nan (264 samples), Val IoU: 0.0000
+2024-10-24 00:46:27,789 - INFO - Starting training with config: {'batch_size': 8, 'num_epochs': 5, 'learning_rate': 0.01, 'weight_decay': 0.01, 'patch_size': 16, 'embed_dim': 768, 'num_heads': 12, 'depth': 12}
+2024-10-24 00:46:27,825 - INFO - Using device: mps
+2024-10-24 00:46:27,826 - INFO - Found 540 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training
+2024-10-24 00:46:29,288 - INFO - Successfully loaded 540 valid image pairs
+2024-10-24 00:46:29,289 - INFO - Found 264 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation
+2024-10-24 00:46:29,903 - INFO - Successfully loaded 264 valid image pairs
+2024-10-24 00:46:30,630 - INFO - Training with 68 training batches and 33 validation batches
+2024-10-24 00:59:33,287 - INFO - Epoch 1 - Train Loss: nan (540 samples), Train IoU: 0.0010, Val Loss: nan (264 samples), Val IoU: 0.0000
+2024-10-24 01:14:39,513 - INFO - Using device: mps
+2024-10-24 01:14:39,514 - INFO - Found 540 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training
+2024-10-24 01:14:41,022 - INFO - Successfully loaded 540 valid image pairs
+2024-10-24 01:14:41,023 - INFO - Found 264 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation
+2024-10-24 01:14:41,654 - INFO - Successfully loaded 264 valid image pairs
+2024-10-24 01:17:05,388 - ERROR - Training failed: Detected more unique values in `target` than expected. Expected only 2 but found 3 in `target`. Found values: tensor([-1,  0,  1], device='mps:0').
+2024-10-24 01:27:54,622 - INFO - Using device: mps
+2024-10-24 01:27:54,624 - INFO - Found 540 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training
+2024-10-24 01:27:55,899 - INFO - Successfully loaded 540 valid image pairs
+2024-10-24 01:27:55,900 - INFO - Found 264 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation
+2024-10-24 01:27:56,462 - INFO - Successfully loaded 264 valid image pairs
+2024-10-24 01:44:26,966 - INFO - Epoch 1
+2024-10-24 01:44:26,970 - INFO - Train Loss: nan
+2024-10-24 01:44:26,970 - INFO - Train Metrics:
+2024-10-24 01:44:26,971 - INFO - Multiclass_Accuracy: 0.4949
+2024-10-24 01:44:26,971 - INFO - Multiclass_F1_Score: 0.4695
+2024-10-24 01:44:26,971 - INFO - Multiclass_Jaccard_Index: 0.4360
+2024-10-24 01:44:26,971 - INFO - Multiclass_Jaccard_Index_Micro: 0.7650
+2024-10-24 01:44:26,972 - INFO - multiclassaccuracy_0: 0.9839
+2024-10-24 01:44:26,978 - INFO - multiclassaccuracy_1: 0.0059
+2024-10-24 01:44:26,978 - INFO - multiclassjaccardindex_0: 0.8667
+2024-10-24 01:44:26,978 - INFO - multiclassjaccardindex_1: 0.0052
+2024-10-24 01:44:26,978 - INFO - Val Loss: nan
+2024-10-24 01:44:26,978 - INFO - Val Metrics:
+2024-10-24 01:44:26,979 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 01:44:26,979 - INFO - Multiclass_F1_Score: 0.4757
+2024-10-24 01:44:26,979 - INFO - Multiclass_Jaccard_Index: 0.4537
+2024-10-24 01:44:26,979 - INFO - Multiclass_Jaccard_Index_Micro: 0.8306
+2024-10-24 01:44:26,979 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 01:44:26,980 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 01:44:26,980 - INFO - multiclassjaccardindex_0: 0.9074
+2024-10-24 01:44:26,980 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 01:47:26,600 - INFO - Using device: mps
+2024-10-24 01:47:26,601 - INFO - Found 540 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training
+2024-10-24 01:47:28,057 - INFO - Successfully loaded 540 valid image pairs
+2024-10-24 01:47:28,057 - INFO - Found 264 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation
+2024-10-24 01:47:28,663 - INFO - Successfully loaded 264 valid image pairs
+2024-10-24 02:03:19,373 - INFO - Epoch 1
+2024-10-24 02:03:19,377 - INFO - Train Loss: nan
+2024-10-24 02:03:19,377 - INFO - Train Metrics:
+2024-10-24 02:03:19,379 - INFO - Multiclass_Accuracy: 0.4949
+2024-10-24 02:03:19,379 - INFO - Multiclass_F1_Score: 0.4693
+2024-10-24 02:03:19,379 - INFO - Multiclass_Jaccard_Index: 0.4360
+2024-10-24 02:03:19,380 - INFO - Multiclass_Jaccard_Index_Micro: 0.7654
+2024-10-24 02:03:19,380 - INFO - multiclassaccuracy_0: 0.9843
+2024-10-24 02:03:19,383 - INFO - multiclassaccuracy_1: 0.0055
+2024-10-24 02:03:19,383 - INFO - multiclassjaccardindex_0: 0.8670
+2024-10-24 02:03:19,384 - INFO - multiclassjaccardindex_1: 0.0050
+2024-10-24 02:03:19,384 - INFO - Val Loss: nan
+2024-10-24 02:03:19,384 - INFO - Val Metrics:
+2024-10-24 02:03:19,384 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 02:03:19,384 - INFO - Multiclass_F1_Score: 0.4757
+2024-10-24 02:03:19,384 - INFO - Multiclass_Jaccard_Index: 0.4537
+2024-10-24 02:03:19,385 - INFO - Multiclass_Jaccard_Index_Micro: 0.8306
+2024-10-24 02:03:19,385 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 02:03:19,385 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 02:03:19,385 - INFO - multiclassjaccardindex_0: 0.9074
+2024-10-24 02:03:19,386 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 02:19:03,959 - INFO - Epoch 2
+2024-10-24 02:19:03,960 - INFO - Train Loss: nan
+2024-10-24 02:19:03,960 - INFO - Train Metrics:
+2024-10-24 02:19:03,961 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 02:19:03,961 - INFO - Multiclass_F1_Score: 0.4682
+2024-10-24 02:19:03,962 - INFO - Multiclass_Jaccard_Index: 0.4402
+2024-10-24 02:19:03,962 - INFO - Multiclass_Jaccard_Index_Micro: 0.7862
+2024-10-24 02:19:03,962 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 02:19:03,962 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 02:19:03,963 - INFO - multiclassjaccardindex_0: 0.8803
+2024-10-24 02:19:03,963 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 02:19:03,963 - INFO - Val Loss: nan
+2024-10-24 02:19:03,963 - INFO - Val Metrics:
+2024-10-24 02:19:03,963 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 02:19:03,963 - INFO - Multiclass_F1_Score: 0.4757
+2024-10-24 02:19:03,964 - INFO - Multiclass_Jaccard_Index: 0.4537
+2024-10-24 02:19:03,964 - INFO - Multiclass_Jaccard_Index_Micro: 0.8306
+2024-10-24 02:19:03,964 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 02:19:03,964 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 02:19:03,965 - INFO - multiclassjaccardindex_0: 0.9074
+2024-10-24 02:19:03,965 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 02:34:39,946 - INFO - Epoch 3
+2024-10-24 02:34:39,949 - INFO - Train Loss: nan
+2024-10-24 02:34:39,949 - INFO - Train Metrics:
+2024-10-24 02:34:39,949 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 02:34:39,950 - INFO - Multiclass_F1_Score: 0.4682
+2024-10-24 02:34:39,950 - INFO - Multiclass_Jaccard_Index: 0.4402
+2024-10-24 02:34:39,950 - INFO - Multiclass_Jaccard_Index_Micro: 0.7862
+2024-10-24 02:34:39,950 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 02:34:39,951 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 02:34:39,951 - INFO - multiclassjaccardindex_0: 0.8803
+2024-10-24 02:34:39,951 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 02:34:39,951 - INFO - Val Loss: nan
+2024-10-24 02:34:39,951 - INFO - Val Metrics:
+2024-10-24 02:34:39,951 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 02:34:39,952 - INFO - Multiclass_F1_Score: 0.4757
+2024-10-24 02:34:39,952 - INFO - Multiclass_Jaccard_Index: 0.4537
+2024-10-24 02:34:39,952 - INFO - Multiclass_Jaccard_Index_Micro: 0.8306
+2024-10-24 02:34:39,952 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 02:34:39,953 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 02:34:39,953 - INFO - multiclassjaccardindex_0: 0.9074
+2024-10-24 02:34:39,953 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 02:51:02,036 - INFO - Epoch 4
+2024-10-24 02:51:02,038 - INFO - Train Loss: nan
+2024-10-24 02:51:02,038 - INFO - Train Metrics:
+2024-10-24 02:51:02,039 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 02:51:02,039 - INFO - Multiclass_F1_Score: 0.4682
+2024-10-24 02:51:02,039 - INFO - Multiclass_Jaccard_Index: 0.4402
+2024-10-24 02:51:02,040 - INFO - Multiclass_Jaccard_Index_Micro: 0.7862
+2024-10-24 02:51:02,040 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 02:51:02,040 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 02:51:02,040 - INFO - multiclassjaccardindex_0: 0.8803
+2024-10-24 02:51:02,041 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 02:51:02,041 - INFO - Val Loss: nan
+2024-10-24 02:51:02,041 - INFO - Val Metrics:
+2024-10-24 02:51:02,041 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 02:51:02,041 - INFO - Multiclass_F1_Score: 0.4757
+2024-10-24 02:51:02,041 - INFO - Multiclass_Jaccard_Index: 0.4537
+2024-10-24 02:51:02,042 - INFO - Multiclass_Jaccard_Index_Micro: 0.8306
+2024-10-24 02:51:02,042 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 02:51:02,042 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 02:51:02,042 - INFO - multiclassjaccardindex_0: 0.9074
+2024-10-24 02:51:02,043 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 03:05:34,357 - INFO - Epoch 5
+2024-10-24 03:05:34,359 - INFO - Train Loss: nan
+2024-10-24 03:05:34,359 - INFO - Train Metrics:
+2024-10-24 03:05:34,359 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 03:05:34,360 - INFO - Multiclass_F1_Score: 0.4682
+2024-10-24 03:05:34,360 - INFO - Multiclass_Jaccard_Index: 0.4402
+2024-10-24 03:05:34,360 - INFO - Multiclass_Jaccard_Index_Micro: 0.7862
+2024-10-24 03:05:34,361 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 03:05:34,361 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 03:05:34,361 - INFO - multiclassjaccardindex_0: 0.8803
+2024-10-24 03:05:34,361 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 03:05:34,361 - INFO - Val Loss: nan
+2024-10-24 03:05:34,361 - INFO - Val Metrics:
+2024-10-24 03:05:34,362 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 03:05:34,362 - INFO - Multiclass_F1_Score: 0.4757
+2024-10-24 03:05:34,362 - INFO - Multiclass_Jaccard_Index: 0.4537
+2024-10-24 03:05:34,363 - INFO - Multiclass_Jaccard_Index_Micro: 0.8306
+2024-10-24 03:05:34,363 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 03:05:34,364 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 03:05:34,364 - INFO - multiclassjaccardindex_0: 0.9074
+2024-10-24 03:05:34,364 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 03:05:34,908 - ERROR - Training failed: 'train_iou'
+2024-10-24 06:57:30,242 - INFO - Using device: mps
+2024-10-24 06:57:30,243 - INFO - Found 540 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training
+2024-10-24 06:57:31,666 - INFO - Successfully loaded 540 valid image pairs
+2024-10-24 06:57:31,667 - INFO - Found 264 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation
+2024-10-24 06:57:32,252 - INFO - Successfully loaded 264 valid image pairs
+2024-10-24 07:14:20,193 - INFO - Epoch 1
+2024-10-24 07:14:20,198 - INFO - Train Loss: nan
+2024-10-24 07:14:20,198 - INFO - Train Metrics:
+2024-10-24 07:14:20,199 - INFO - Multiclass_Accuracy: 0.5090
+2024-10-24 07:14:20,200 - INFO - Multiclass_F1_Score: 0.4897
+2024-10-24 07:14:20,200 - INFO - Multiclass_Jaccard_Index: 0.4503
+2024-10-24 07:14:20,200 - INFO - Multiclass_Jaccard_Index_Micro: 0.7829
+2024-10-24 07:14:20,200 - INFO - multiclassaccuracy_0: 0.9944
+2024-10-24 07:14:20,203 - INFO - multiclassaccuracy_1: 0.0236
+2024-10-24 07:14:20,204 - INFO - multiclassjaccardindex_0: 0.8779
+2024-10-24 07:14:20,204 - INFO - multiclassjaccardindex_1: 0.0227
+2024-10-24 07:14:20,204 - INFO - Val Loss: nan
+2024-10-24 07:14:20,204 - INFO - Val Metrics:
+2024-10-24 07:14:20,204 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 07:14:20,205 - INFO - Multiclass_F1_Score: 0.4757
+2024-10-24 07:14:20,205 - INFO - Multiclass_Jaccard_Index: 0.4537
+2024-10-24 07:14:20,205 - INFO - Multiclass_Jaccard_Index_Micro: 0.8306
+2024-10-24 07:14:20,205 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 07:14:20,206 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 07:14:20,206 - INFO - multiclassjaccardindex_0: 0.9074
+2024-10-24 07:14:20,206 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 07:31:28,190 - INFO - Epoch 2
+2024-10-24 07:31:28,192 - INFO - Train Loss: nan
+2024-10-24 07:31:28,192 - INFO - Train Metrics:
+2024-10-24 07:31:28,193 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 07:31:28,193 - INFO - Multiclass_F1_Score: 0.4682
+2024-10-24 07:31:28,194 - INFO - Multiclass_Jaccard_Index: 0.4402
+2024-10-24 07:31:28,194 - INFO - Multiclass_Jaccard_Index_Micro: 0.7862
+2024-10-24 07:31:28,194 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 07:31:28,195 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 07:31:28,195 - INFO - multiclassjaccardindex_0: 0.8803
+2024-10-24 07:31:28,195 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 07:31:28,195 - INFO - Val Loss: nan
+2024-10-24 07:31:28,195 - INFO - Val Metrics:
+2024-10-24 07:31:28,195 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 07:31:28,196 - INFO - Multiclass_F1_Score: 0.4757
+2024-10-24 07:31:28,196 - INFO - Multiclass_Jaccard_Index: 0.4537
+2024-10-24 07:31:28,196 - INFO - Multiclass_Jaccard_Index_Micro: 0.8306
+2024-10-24 07:31:28,196 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 07:31:28,197 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 07:31:28,197 - INFO - multiclassjaccardindex_0: 0.9074
+2024-10-24 07:31:28,197 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 07:47:49,928 - INFO - Epoch 3
+2024-10-24 07:47:49,930 - INFO - Train Loss: nan
+2024-10-24 07:47:49,930 - INFO - Train Metrics:
+2024-10-24 07:47:49,931 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 07:47:49,931 - INFO - Multiclass_F1_Score: 0.4682
+2024-10-24 07:47:49,931 - INFO - Multiclass_Jaccard_Index: 0.4402
+2024-10-24 07:47:49,931 - INFO - Multiclass_Jaccard_Index_Micro: 0.7862
+2024-10-24 07:47:49,932 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 07:47:49,932 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 07:47:49,932 - INFO - multiclassjaccardindex_0: 0.8803
+2024-10-24 07:47:49,933 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 07:47:49,933 - INFO - Val Loss: nan
+2024-10-24 07:47:49,933 - INFO - Val Metrics:
+2024-10-24 07:47:49,933 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 07:47:49,933 - INFO - Multiclass_F1_Score: 0.4757
+2024-10-24 07:47:49,933 - INFO - Multiclass_Jaccard_Index: 0.4537
+2024-10-24 07:47:49,934 - INFO - Multiclass_Jaccard_Index_Micro: 0.8306
+2024-10-24 07:47:49,934 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 07:47:49,934 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 07:47:49,934 - INFO - multiclassjaccardindex_0: 0.9074
+2024-10-24 07:47:49,935 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 08:05:07,110 - INFO - Epoch 4
+2024-10-24 08:05:07,113 - INFO - Train Loss: nan
+2024-10-24 08:05:07,113 - INFO - Train Metrics:
+2024-10-24 08:05:07,114 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 08:05:07,114 - INFO - Multiclass_F1_Score: 0.4682
+2024-10-24 08:05:07,114 - INFO - Multiclass_Jaccard_Index: 0.4402
+2024-10-24 08:05:07,115 - INFO - Multiclass_Jaccard_Index_Micro: 0.7862
+2024-10-24 08:05:07,115 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 08:05:07,115 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 08:05:07,116 - INFO - multiclassjaccardindex_0: 0.8803
+2024-10-24 08:05:07,116 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 08:05:07,116 - INFO - Val Loss: nan
+2024-10-24 08:05:07,116 - INFO - Val Metrics:
+2024-10-24 08:05:07,116 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 08:05:07,116 - INFO - Multiclass_F1_Score: 0.4757
+2024-10-24 08:05:07,117 - INFO - Multiclass_Jaccard_Index: 0.4537
+2024-10-24 08:05:07,117 - INFO - Multiclass_Jaccard_Index_Micro: 0.8306
+2024-10-24 08:05:07,117 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 08:05:07,118 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 08:05:07,118 - INFO - multiclassjaccardindex_0: 0.9074
+2024-10-24 08:05:07,118 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 08:37:14,183 - INFO - Epoch 5
+2024-10-24 08:37:14,185 - INFO - Train Loss: nan
+2024-10-24 08:37:14,185 - INFO - Train Metrics:
+2024-10-24 08:37:14,185 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 08:37:14,186 - INFO - Multiclass_F1_Score: 0.4682
+2024-10-24 08:37:14,186 - INFO - Multiclass_Jaccard_Index: 0.4402
+2024-10-24 08:37:14,186 - INFO - Multiclass_Jaccard_Index_Micro: 0.7862
+2024-10-24 08:37:14,187 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 08:37:14,187 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 08:37:14,188 - INFO - multiclassjaccardindex_0: 0.8803
+2024-10-24 08:37:14,188 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 08:37:14,188 - INFO - Val Loss: nan
+2024-10-24 08:37:14,188 - INFO - Val Metrics:
+2024-10-24 08:37:14,188 - INFO - Multiclass_Accuracy: 0.5000
+2024-10-24 08:37:14,188 - INFO - Multiclass_F1_Score: 0.4757
+2024-10-24 08:37:14,189 - INFO - Multiclass_Jaccard_Index: 0.4537
+2024-10-24 08:37:14,189 - INFO - Multiclass_Jaccard_Index_Micro: 0.8306
+2024-10-24 08:37:14,189 - INFO - multiclassaccuracy_0: 1.0000
+2024-10-24 08:37:14,189 - INFO - multiclassaccuracy_1: 0.0000
+2024-10-24 08:37:14,190 - INFO - multiclassjaccardindex_0: 0.9074
+2024-10-24 08:37:14,190 - INFO - multiclassjaccardindex_1: 0.0000
+2024-10-24 08:37:14,538 - ERROR - Training failed: 'Multiclass_F1'
+2024-10-24 08:53:22,756 - INFO - Using device: mps
+2024-10-24 08:53:22,763 - INFO - Found 540 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training
+2024-10-24 08:53:24,177 - INFO - Successfully loaded 540 valid image pairs
+2024-10-24 08:53:24,179 - INFO - Found 264 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation
+2024-10-24 08:53:24,765 - INFO - Successfully loaded 264 valid image pairs
+2024-10-24 08:55:03,062 - ERROR - Training failed: 'MetricsCalculator' object has no attribute 'jaccard_micro'
+2024-10-24 08:55:23,465 - INFO - Using device: mps
+2024-10-24 08:55:23,466 - INFO - Found 540 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training
+2024-10-24 08:55:24,877 - INFO - Successfully loaded 540 valid image pairs
+2024-10-24 08:55:24,878 - INFO - Found 264 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation
+2024-10-24 08:55:25,478 - INFO - Successfully loaded 264 valid image pairs
+2024-10-24 08:57:07,406 - ERROR - Training failed: 'MetricsCalculator' object has no attribute 'class_accuracy'
+2024-10-24 08:58:04,101 - INFO - Using device: mps
+2024-10-24 08:58:04,102 - INFO - Found 540 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training
+2024-10-24 08:58:05,527 - INFO - Successfully loaded 540 valid image pairs
+2024-10-24 08:58:05,528 - INFO - Found 264 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation
+2024-10-24 08:58:06,118 - INFO - Successfully loaded 264 valid image pairs
+2024-10-24 09:14:59,651 - INFO - Epoch 1
+2024-10-24 09:14:59,658 - INFO - Train Loss: nan
+2024-10-24 09:14:59,658 - INFO - Train Metrics:
+2024-10-24 09:14:59,658 - INFO - accuracy: 0.3320
+2024-10-24 09:14:59,659 - INFO - f1_score: 0.3155
+2024-10-24 09:14:59,659 - INFO - iou: 0.2912
+2024-10-24 09:14:59,659 - INFO - Val Loss: nan
+2024-10-24 09:14:59,659 - INFO - Val Metrics:
+2024-10-24 09:14:59,659 - INFO - accuracy: 0.3333
+2024-10-24 09:14:59,659 - INFO - f1_score: 0.3158
+2024-10-24 09:14:59,659 - INFO - iou: 0.3000
+2024-10-24 09:14:59,659 - ERROR - Training failed: 'Multiclass_Jaccard_Index'
+2024-10-24 09:24:19,687 - INFO - Using device: mps
+2024-10-24 09:24:19,689 - INFO - Found 540 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training
+2024-10-24 09:24:21,079 - INFO - Successfully loaded 540 valid image pairs
+2024-10-24 09:24:21,080 - INFO - Found 264 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation
+2024-10-24 09:24:21,648 - INFO - Successfully loaded 264 valid image pairs
+2024-10-24 10:05:59,254 - INFO - Epoch 1
+2024-10-24 10:05:59,259 - INFO - Train Loss: nan
+2024-10-24 10:05:59,259 - INFO - Train Metrics:
+2024-10-24 10:05:59,259 - INFO - accuracy: 0.3323
+2024-10-24 10:05:59,259 - INFO - f1_score: 0.3109
+2024-10-24 10:05:59,259 - INFO - iou: 0.2910
+2024-10-24 10:05:59,259 - INFO - Val Loss: nan
+2024-10-24 10:05:59,259 - INFO - Val Metrics:
+2024-10-24 10:05:59,259 - INFO - accuracy: 0.3333
+2024-10-24 10:05:59,259 - INFO - f1_score: 0.3158
+2024-10-24 10:05:59,259 - INFO - iou: 0.3000

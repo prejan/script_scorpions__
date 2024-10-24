@@ -1,0 +1,5 @@
+2024-10-24 01:26:25,343 - INFO - Using device: mps
+2024-10-24 01:26:25,344 - INFO - Found 540 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/training
+2024-10-24 01:26:26,815 - INFO - Successfully loaded 540 valid image pairs
+2024-10-24 01:26:26,816 - INFO - Found 264 merged files in /Users/admin63/Python-Programs/Geospatial-Image-Stitcher-and-cloud-remover/custom-transformer-inferences/hls_burn_scars/validation
+2024-10-24 01:26:27,421 - INFO - Successfully loaded 264 valid image pairs
