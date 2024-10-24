@@ -118,6 +118,6 @@ Fork the repository.
 Create a feature branch.
 Submit a pull request.
 Summary
-This project successfully detects and segments burn scars with a multiclass accuracy of 96.71% and a Jaccard Index of 84.72%. The model evolved through various training stages, balancing complexity with performance, and achieving strong results with an FCNDecoder and basic augmentations.
+This project successfully detects and segments burn scars with a multiclass accuracy of 96% and a Jaccard Index of 84%. The model evolved through various training stages, balancing complexity with performance, and achieving strong results with an FCNDecoder and basic augmentations.
 
 
